@@ -1,3 +1,4 @@
+import os
 
 chrome_driver_path = os.path.join(os.getcwd(), "drivers", "chromedriver.exe")
 

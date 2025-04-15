@@ -1,8 +1,4 @@
 
-# Keep conftest.py under tests folder, if you want to run tests from PyCharm play button
-# Keep conftest.py under project folder, if you want to run tests from PyCharm terminal
-# If you want to run tests from PyChram play button as well as terminal, create pytest.ini file at project level having some info
-
 import pytest
 import time
 
